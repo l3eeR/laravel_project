@@ -5,8 +5,8 @@
 <title>Untitled Document</title>
 </head>
 
-<body><img class="sy-logo" src="{{url('/')}}/css/pubg/sy_logo.png">
-<a><img class="sy-logo" src="{{url('/')}}/css/pubg/pubg-mobile_logo.png"></a>
+<body><img class="sy-logo" src="css\pubg/sy_logo.png"> ///////เอารูปใส่เเบบย่อ
+<a><img class="sy-logo" src="{{url('/')}}/css/pubg/pubg-mobile_logo.png"></a> //////เอารูปใส่แบบเต็ม
 <div class="sy-navi">
             <a class="on" data-pos="0" data-index="0">Home Page</a>
             <a data-pos="202" data-index="2" href="//groups.google.com/forum/#!forum/tencentgamingbuddy" data-stats="sysem.ak.to_wjlt" target="_blank">Player Forum</a>
